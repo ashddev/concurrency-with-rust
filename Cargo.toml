@@ -4,8 +4,9 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-divide_work = { path = "./divide_work" }
-
 
 [workspace]
-memebers = ["divide_work"]
+members = [
+    "divide_work", 
+    "thread_builder"
+]

@@ -5,10 +5,11 @@ version = 3
 [[package]]
 name = "concurrency-with-rust"
 version = "0.1.0"
-dependencies = [
- "divide_work",
-]
 
 [[package]]
 name = "divide_work"
+version = "0.1.0"
+
+[[package]]
+name = "thread_builder"
 version = "0.1.0"
