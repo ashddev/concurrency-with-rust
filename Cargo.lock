@@ -11,6 +11,10 @@ name = "divide_work"
 version = "0.1.0"
 
 [[package]]
+name = "not-a-footgun"
+version = "0.1.0"
+
+[[package]]
 name = "scoped_threads"
 version = "0.1.0"
 
