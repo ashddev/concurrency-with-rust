@@ -23,6 +23,10 @@ name = "not-a-footgun"
 version = "0.1.0"
 
 [[package]]
+name = "poisoner"
+version = "0.1.0"
+
+[[package]]
 name = "rwlocks"
 version = "0.1.0"
 
