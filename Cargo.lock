@@ -7,6 +7,10 @@ name = "concurrency-with-rust"
 version = "0.1.0"
 
 [[package]]
+name = "deadlocks"
+version = "0.1.0"
+
+[[package]]
 name = "divide_work"
 version = "0.1.0"
 
