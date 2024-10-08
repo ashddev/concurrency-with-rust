@@ -7,7 +7,7 @@ edition = "2021"
 
 [workspace]
 members = [
-    "divide_work", "mutexes", "not-a-footgun", 
+    "divide_work", "mutexes", "not-a-footgun", "rwlocks", 
     "scoped_threads", 
     "thread_builder"
 ]
