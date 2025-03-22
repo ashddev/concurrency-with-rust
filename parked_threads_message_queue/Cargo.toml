@@ -1,0 +1,6 @@
+[package]
+name = "parked_threads_message_queue"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
