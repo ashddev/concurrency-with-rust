@@ -6,4 +6,4 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = [ "deadlocks", "divide_work", "mutexes", "not-a-footgun", "poisoner", "rwlocks", "scoped_threads", "thread_builder", "dashmap_wordcounter", "parked_threads_message_queue"]
+members = [ "deadlocks", "divide_work", "mutexes", "not-a-footgun", "poisoner", "rwlocks", "scoped_threads", "thread_builder", "dashmap_wordcounter", "parked_threads_message_queue", "channels_elevator_simulator"]
